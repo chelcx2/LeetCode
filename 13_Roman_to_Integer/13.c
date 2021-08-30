@@ -16,14 +16,14 @@ int romanToInt(char * s)
     while(1) {
         if(idx == strlen(s) - 1) {
             switch(s[idx]) {
-            case 'I': val += 1; break;
-            case 'V': val += 5; break;
-            case 'X': val += 10; break;
-            case 'L': val += 50; break;
-            case 'C': val += 100; break;
-            case 'D': val += 500; break;
-            case 'M': val += 1000; break;
-            default: val = val; break;
+                case 'I': val += 1; break;
+                case 'V': val += 5; break;
+                case 'X': val += 10; break;
+                case 'L': val += 50; break;
+                case 'C': val += 100; break;
+                case 'D': val += 500; break;
+                case 'M': val += 1000; break;
+                default: val = val; break;
             }
             idx ++;
         }
