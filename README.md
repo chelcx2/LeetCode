@@ -14,10 +14,10 @@ git clone https://github.com/LeoTheBestCoder/LeetCode.git
 * Python file  
 ``` python3 example.py```
 * cpp file (under Linux evironment)  
-``` g++ example.c ```  
+``` g++ example.cpp ```  
 ```./a.out```  
 * C file(under Linux evironment)  
-``` gcc example.cpp ```  
+``` gcc example.c ```  
 ```./a.out```  
 
 ## Bug Report and Feedback
