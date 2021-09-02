@@ -5,7 +5,7 @@ This is my LeetCode Practice. Visit [LeetCode Website](https://leetcode.com/) fo
 The code in this repository has already been **ALL ACCEPTED** by LeetCode.
 
 ## Environment
-* Python >= 3.6 (both Windows and Linux are acceptable)  
+* Python >= 3.6  
 * gcc >= 6.3.0  
 * g++ >= 6.3.0
 
