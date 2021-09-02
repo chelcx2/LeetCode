@@ -5,7 +5,9 @@ This is my LeetCode Practice. Visit [LeetCode Website](https://leetcode.com/) fo
 The code in this repository has already been **ALL ACCEPTED** by LeetCode.
 
 ## Environment
-Python >= 3.6 (both Windows and Linux are acceptable)
+* Python >= 3.6 (both Windows and Linux are acceptable)  
+* gcc >= 6.3.0  
+* g++ >= 6.3.0
 
 ## Getting Started
 ```
@@ -13,12 +15,14 @@ git clone https://github.com/LeoTheBestCoder/LeetCode.git
 ```
 * Python file  
 ``` python3 example.py```
-* cpp file (under Linux evironment)  
-``` g++ example.cpp ```  
-```./a.out```  
-* C file (under Linux evironment)  
+* C file  
 ``` gcc example.c ```  
-```./a.out```  
+```./a.out``` (for Linux user)  
+```.\a.exe``` (for Windows user)
+* cpp file   
+``` g++ example.cpp ```  
+```./a.out``` (for Linux user)  
+```.\a.exe``` (for Windows user)
 
 ## Feedback and Bug Report
 If you find any bugs in my code or you have any suggestions, please feel free to [leave an issue](https://github.com/LeoTheBestCoder/LeetCode/issues) to let me know.  
