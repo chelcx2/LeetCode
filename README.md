@@ -16,7 +16,7 @@ git clone https://github.com/LeoTheBestCoder/LeetCode.git
 * cpp file (under Linux evironment)  
 ``` g++ example.cpp ```  
 ```./a.out```  
-* C file(under Linux evironment)  
+* C file (under Linux evironment)  
 ``` gcc example.c ```  
 ```./a.out```  
 
