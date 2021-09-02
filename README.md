@@ -20,6 +20,6 @@ git clone https://github.com/LeoTheBestCoder/LeetCode.git
 ``` gcc example.c ```  
 ```./a.out```  
 
-## Bug Report and Feedback
+## Feedback and Bug Report
 If you find any bugs in my code or you have any suggestions, please feel free to [leave an issue](https://github.com/LeoTheBestCoder/LeetCode/issues) to let me know.  
 Thanks a lot!
