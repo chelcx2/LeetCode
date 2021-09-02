@@ -22,4 +22,4 @@ git clone https://github.com/LeoTheBestCoder/LeetCode.git
 
 ## Feedback and Bug Report
 If you find any bugs in my code or you have any suggestions, please feel free to [leave an issue](https://github.com/LeoTheBestCoder/LeetCode/issues) to let me know.  
-Thanks a lot!
+If you like my repository, you can also give it a star! Thanks a lot!
