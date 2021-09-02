@@ -21,4 +21,5 @@ git clone https://github.com/LeoTheBestCoder/LeetCode.git
 ```./a.out```  
 
 ## Bug Report and Feedback
-If you find any bugs in my code or you have any suggestions, please feel free to [leave an issue](https://github.com/LeoTheBestCoder/LeetCode/issues) to let me know. Thanks a lot!
+If you find any bugs in my code or you have any suggestions, please feel free to [leave an issue](https://github.com/LeoTheBestCoder/LeetCode/issues) to let me know.  
+Thanks a lot!
