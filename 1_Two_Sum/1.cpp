@@ -27,7 +27,6 @@ int main()
     vector<int> nums{3, 2, 4};
     // for (int i = 0; i < nums.size(); i++)
     //     cout << nums[i] << " ";
-
     vector<int> ans = twoSum(nums, 6);
     for (int i = 0; i < ans.size(); i++)
     {
