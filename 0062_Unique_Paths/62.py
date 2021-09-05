@@ -3,6 +3,7 @@ def fac(i: int) -> int:
         return 1
     else:
         return i * fac(i-1)
+        
 
 class Solution:
     def uniquePaths(self, m: int, n: int) -> int:
