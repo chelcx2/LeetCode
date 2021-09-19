@@ -1,7 +1,14 @@
 # The guess API is already defined for you.
 # @param num, your guess
 # @return -1 if my number is lower, 1 if my number is higher, otherwise return 0
-# def guess(num: int) -> int:
+PICKED = 6
+def guess(num: int) -> int:
+    if PICKED > num:
+        return 1
+    elif PICKED < num:
+        return -1
+    else:
+        return 0
 
 class Solution:
     def guessNumber(self, n: int) -> int:
@@ -19,3 +26,6 @@ class Solution:
                 stop = num
             else:
                 start = num
+
+a = Solution()
+print(a.guessNumber(n = 10))
