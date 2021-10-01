@@ -2,7 +2,8 @@
 
 ## Description
 This is my LeetCode Practice. Visit [LeetCode Website](https://leetcode.com/) for detailed question description.  
-The code in this repository has already been **ALL ACCEPTED** by LeetCode.
+The code in this repository has already been **ALL ACCEPTED** by LeetCode.  
+Find me at [https://leetcode.com/leo22465725/](https://leetcode.com/leo22465725/).
 
 ## Environment
 * Python >= 3.6  
