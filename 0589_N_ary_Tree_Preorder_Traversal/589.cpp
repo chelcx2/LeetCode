@@ -24,9 +24,9 @@ public:
 
 class Solution
 {
-    vector<int> result;
 
 public:
+    vector<int> result;
     vector<int> preorder(Node *root)
     {
         if (root)
