@@ -13,7 +13,7 @@ class Solution:
             # print(tmp)
             if tmp not in s:
                 s.add(tmp)
-        print(s)
+        # print(s)
         return len(s)
 
 a = Solution()
