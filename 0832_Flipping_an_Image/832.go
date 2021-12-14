@@ -32,4 +32,5 @@ func main() {
 	}
 	fmt.Println(flipAndInvertImage(im1))
 	fmt.Println(flipAndInvertImage(im2))
+
 }
