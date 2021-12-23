@@ -20,6 +20,5 @@ int main() {
     string ord2 = "cbafg", s2 = "abcd";
     Solution a;
     cout << a.customSortString(ord1, s1) << "\n" << a.customSortString(ord2, s2);
-    // cout << a.customSortString(ord2, s2);
     return 0;
 }
