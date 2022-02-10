@@ -13,4 +13,4 @@ class Solution:
         return ans
 
 a = Solution()
-print(a.letterCombinations(digits = "234"))
+print(a.letterCombinations(digits = "2345"))
